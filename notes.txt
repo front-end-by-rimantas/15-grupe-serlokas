@@ -1,0 +1,14 @@
+https://miro.medium.com/max/1400/1*-i5m47JMGAhGVIdQPThnDQ.jpeg
+
++ naujas projekto katalogas
+    + index.html
+        - projekto HTML struktura
+        - kiekviena elementa sustailinti (eng. style)
+    + issikirpti serloko nuotrauka
+        - jpg - pavirsius visas spalvotas (lengvas - 1Mb)
+        - png - galima tureti persvieciamas teritorijas/dalis (suniasvoris - 2Mb)
+
++ GIT (init)
+    - commit
+
+- Github
